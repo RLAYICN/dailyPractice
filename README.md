@@ -1,2 +1,2 @@
 # dailyPractice
-my schoolwork and anyother online-judge broblems.
+my schoolwork and anyother online-judge exercises.
